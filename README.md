@@ -148,6 +148,32 @@ git clone [url]
 
 
 -  ## Berikut bukti pengerjaan-nya
+MODUL2 (praktikum 2)
+![Screenshot (64)](https://github.com/lutpi9/Pertemuan7/assets/147919251/227332dc-03fb-45e2-86a3-7a0e1945deb7)
+-MODUL3
+LATIHAN 1
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/a9101680-0076-4098-9fbc-8d06d2b3e0bd)
+LATIHAN 2
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/5780cf1a-29e5-4740-a9ae-a6b8d8ade824)
+PROGRAM
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/a6712b98-5e35-4237-8bbf-d947c8f98570)
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/0e18e3d4-ef52-4822-8c63-738bd291d460)
+-LAB2 STRUKTUR KONDISI
+LATIHAN 1
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/bcb6fb61-2df4-4c6c-851f-d208eca6f16a)
+LATIHAN 2
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/6ad57454-b9c2-4964-99a4-4907eca4b0ed)
+-LAB3 PERULANGAN
+LATIHAN 1
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/2de1e13a-b142-4f55-bab6-b49ba82875d8)
+LATIHAN 2
+![image](https://github.com/lutpi9/Pertemuan7/assets/147919251/d37a4d0f-f3fe-425b-b1b5-86ad4efeef8b)
+
+
+
+
+
+
 
    
 
